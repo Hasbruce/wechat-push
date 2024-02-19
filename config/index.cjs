@@ -27,6 +27,7 @@ const USER_CONFIG = {
       //odRpS6QAzdlI5wIskpc4VrQSzIcI 憨憨的
       useTemplateId: '1TihtiShxhmNFK8bxDtBPm9nvk1IeVJ_OV0FWWSSTWs',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
+      
       horoscopeDate: '11-25',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
